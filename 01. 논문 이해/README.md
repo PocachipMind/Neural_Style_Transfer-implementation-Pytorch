@@ -1,4 +1,4 @@
-# Abstract 읽기 전 팁
+# Abstract 읽기 전
 
 abstract은 논문 전체 내용을 짧은 문단으로 요약한 요약본이다. 
 그렇기 때문에 여기에 어떤 연구를 진행했는지 그리고 뭘 새롭게 제시했는지 결과가 어떻게 나왔는지 등 내용이 축약되어서 적혀있으므로 중요합니다. 
@@ -12,7 +12,7 @@ abstract은 논문 전체 내용을 짧은 문단으로 요약한 요약본이�
 # Abstract
 ![image](https://github.com/user-attachments/assets/883aaa3e-eb94-4ce6-9358-74efcf2c3bf5)
 
-# Introduction 읽기 전 팁
+# Introduction 읽기 전
 
 Introduction은 보통 크게 세가지를 포함하고 있습니다.
 
@@ -44,3 +44,16 @@ style transfer 라는 task에 대한 간략한 소개
 - 이 연구에서 CNN을 활용한 A Neural Algorithm of Artistic Style 을 새롭게 제시
 - 이미지의 content와 style을 독립적으로 처리하며 또한, 분리하거나 재결합 할 수 있음
 
+# Method 읽기 전
+
+Figure 1 같이 이미지가 나 올 경우 해당 이미지가 쓰이는 곳까지 독해를 하고 읽고난 이후 이미지를 보는것이 이해에 좋다.
+
+보통 Method 라고 해서 논문의 가장 중요한 알고리즘이 되는 방법론을 제시하는 부분이 여기입니다. 
+
+2. Deep image representations 부분 부터 논문의 가장 중요한 부분입니다.
+
+# Deep Image Representation
+
+![image](https://github.com/user-attachments/assets/75b41881-e33d-4314-95a8-733dc05e32d4)
+
+![image](https://github.com/user-attachments/assets/ddcbe245-d40e-4d55-b17a-feb83a5db4d1)
