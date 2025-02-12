@@ -23,3 +23,24 @@ Introduction은 보통 크게 세가지를 포함하고 있습니다.
 3.  이 연구를 통해서 어떤 것을 실험했고 어떤 결과가 나왔고 이런 결과들을 간략하게 소개를 하고 이 연구가 이 분야에서 어떤 컨트리뷰션이 있었는지 즉 이 연구가 얼마나 임팩트 있는 결과를 갖고 왔는지 소개 합니다.
 
 인트로덕션을 읽는 이유는 이 연구에 대한 흐름이나 저자가 제시하고자 하는 문제점을 이해하고 싶을 때 보는데, 그래서 논문의 주요한 기능 부분을 이해하려고 논문을 본다고 한다면 보통 인트로덕션 부분은 그냥 건너 뜁니다. 
+
+예를들어 지금 같은 경우 논문을 구현할 것인 경우 인트로덕션 부분은 크게 필요가 없습니다. 
+
+### Tip
+
+논문 리뷰를 해야 된다거나 이제 논문을 좀 자세하게 이해해야 된다 그런게 아니라면 사실 인트로덕션은 그냥 건너뛰고 봐도 큰 문제가 없습니다. 
+
+# Introduction
+
+### Introduction
+style transfer 라는 task에 대한 간략한 소개
+### Related Works
+- 이전의 style transfer는 image의 texture를 합성하는 방식이고 non-parametric 알고리즘과 같은 방식이 존재한다.
+- 이전의 대부분의 style transfer 알고리즘은 근본적인 한계가 있다.
+  - target image의 low-level feature만 활용
+  - 이미지의 유의미한 content와 style을 각기 분리해야 하지만 한계가 있음
+### Our Works
+- CNN의 발전으로 high-level semantic information extraction 이 가능
+- 이 연구에서 CNN을 활용한 A Neural Algorithm of Artistic Style 을 새롭게 제시
+- 이미지의 content와 style을 독립적으로 처리하며 또한, 분리하거나 재결합 할 수 있음
+
