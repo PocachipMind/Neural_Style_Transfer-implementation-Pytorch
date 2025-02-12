@@ -1,4 +1,4 @@
-# 논문 읽어보기 Abstract 읽기 전 팁
+## Abstract 읽기 전 팁
 
 abstract은 논문 전체 내용을 짧은 문단으로 요약한 요약본이다. 
 그렇기 때문에 여기에 어떤 연구를 진행했는지 그리고 뭘 새롭게 제시했는지 결과가 어떻게 나왔는지 등 내용이 축약되어서 적혀있으므로 중요합니다. 
@@ -9,10 +9,10 @@ abstract은 논문 전체 내용을 짧은 문단으로 요약한 요약본이�
 
 그러면 사전지식을 공부하고 논문을 다시 읽거나 아니면 다른 사람들도 많이 보는 유명한 논문인지 먼저 체크하시오.
 
-# Abstract 
+## Abstract
 ![image](https://github.com/user-attachments/assets/883aaa3e-eb94-4ce6-9358-74efcf2c3bf5)
 
-# Introduction 읽기 전 팁
+## Introduction 읽기 전 팁
 
 Introduction은 보통 크게 세가지를 포함하고 있습니다.
 
@@ -30,7 +30,7 @@ Introduction은 보통 크게 세가지를 포함하고 있습니다.
 
 논문 리뷰를 해야 된다거나 이제 논문을 좀 자세하게 이해해야 된다 그런게 아니라면 사실 인트로덕션은 그냥 건너뛰고 봐도 큰 문제가 없습니다. 
 
-# Introduction
+## Introduction
 
 ### Introduction
 style transfer 라는 task에 대한 간략한 소개
