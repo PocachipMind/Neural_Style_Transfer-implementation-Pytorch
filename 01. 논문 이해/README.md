@@ -89,3 +89,11 @@ Deep Image Representation이 VGG 네트워크의 Feature Map으로 표현된다�
 ![image](https://github.com/user-attachments/assets/7cb99a8c-9042-4bbd-8f95-1f15386cac93)
 
 마지막 나온 F가 컨텐츠 레프레젠테이션( Content Representation )
+
+# Content representation - Loss
+
+![image](https://github.com/user-attachments/assets/4c41598d-d81c-46a1-a85f-137c61b459b2)
+
+![image](https://github.com/user-attachments/assets/0022b01e-6d6d-438d-b2b5-43cfcc73280d)
+
+아래부분은 그래디언트 디센트 구하는 부분
