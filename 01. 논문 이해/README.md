@@ -56,4 +56,15 @@ Figure 1 같이 이미지가 나 올 경우 해당 이미지가 쓰이는 곳까
 
 ![image](https://github.com/user-attachments/assets/75b41881-e33d-4314-95a8-733dc05e32d4)
 
+### VGG19
 ![image](https://github.com/user-attachments/assets/ddcbe245-d40e-4d55-b17a-feb83a5db4d1)
+
+VGG19란 네트워크는 클래스 분류 테스크를 수행하는 네트워크.
+
+미리 학습되어 있는 프리트레인된 모델. 
+
+파란색이 컨볼루셔널 네트워크의 엑티베이션 함수
+
+노란색이 Pooling 레이어.
+
+5개의 CNN 블럭으로 존재하는 이카텍쳐
