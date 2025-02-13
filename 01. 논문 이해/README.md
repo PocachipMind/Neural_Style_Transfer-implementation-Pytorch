@@ -110,4 +110,17 @@ Gram Matrix = 자기 자신의 내적. 매트릭스의 자기 자신의 내적
 
 ![image](https://github.com/user-attachments/assets/1f5e04b8-2201-469e-9848-4fdf10ac6d89)
 
-![image](https://github.com/user-attachments/assets/6ec0d2f6-59ae-4687-bfd9-40f4f18709d0)
+
+Gram Matrix가 Correlation을 표현하므로 
+
+선형대수의 내적 Correlation
+
+# Style representation - Loss
+
+![image](https://github.com/user-attachments/assets/1a73a2dd-c259-49ad-aaf7-e4559a87b186)
+
+# Train
+
+알파와 베타는 하이퍼파라미터입니다. 학습할때 하이퍼파라미터 튜닝을 해야합니다. 
+
+아래 Result 부분에 하이퍼파라미터 비율 참고하면서 하이퍼파라미터 튜닝합니다.
