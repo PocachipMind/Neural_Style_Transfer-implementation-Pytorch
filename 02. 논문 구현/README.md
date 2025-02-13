@@ -41,8 +41,13 @@ ContentLoss와 StyleLoss를 나눠 구현
 
 코드가 어떻게 구현되어가는지 파악하자.
 
-train 01~02 로 기본적인 구조 구현 완.
+### train 01~02 로 기본적인 구조 구현 완.
 
+01 : 코드 구조 구현
+
+02 : 데이터 device로 옮겨 효과적인 학습 진행
+
+### train 03 부터
 train 03 부터 하이퍼 파라미터 튜닝을 위한 구조 변경
 
-train final 최종 코드
+### train final 최종 코드
