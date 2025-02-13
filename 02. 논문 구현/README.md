@@ -21,3 +21,14 @@ torch.nn.modeule로 구현될 실제 forward 부분
 
 
 ### 현 논문은 dataset이 필요없으니 3 part로 나누어서 구현합니다.
+
+# 1. Modeling
+
+![image](https://github.com/user-attachments/assets/edb433d2-c1f1-41b8-9e32-3d39e48de008)
+
+VGG19에서 슬라이싱을 통해 각각 합성곱 레이어를 갖고오는 작업을 합니다.
+
+![image](https://github.com/user-attachments/assets/08bf879e-906a-4987-b334-d85e5b9deb27)
+
+![image](https://github.com/user-attachments/assets/ba7259a5-d1d2-4314-b0c8-6c9109f3309a)
+
