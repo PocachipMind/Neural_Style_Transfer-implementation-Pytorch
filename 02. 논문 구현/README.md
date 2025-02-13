@@ -32,3 +32,5 @@ VGG19에서 슬라이싱을 통해 각각 합성곱 레이어를 갖고오는 �
 
 ![image](https://github.com/user-attachments/assets/ba7259a5-d1d2-4314-b0c8-6c9109f3309a)
 
+
+# 2. Loss
