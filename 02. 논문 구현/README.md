@@ -4,8 +4,19 @@
 
 구현하며 학습한 진행 사항을 기록합니다.
 
-구현은 총 4 파트. 다음과 같이 나뉩니다.
-1. Modeling
-2. Loss
-3. Train
-4. Tuning
+기본적으로 논문 구현은 4파트로 진행합니다.
+
+### 1. Modeling 
+
+torch.nn.modeule로 구현될 실제 forward 부분
+### 2. Dataset
+  
+현 논문은 특별히 데이터셋이 필요 없긴 하지만, 보통 데이터셋이 있고 그리고 각각의 데이터 셋을 preprocessing , postprocessing , load, save... 등등 이런 작업들이 엔지니어링적인 작업들이 필요. 
+### 3. Loss
+
+해당 파트는 개인취향이긴 하지만 Loss Function이 복잡한 경우가 있습니다. 그런 경우 따로 빼서 구현하는게 좀 더 깔끔하다. 
+### 4. Train
+
+1~3 구현 파트를 합친 다음에 Main Train loop 를 설정하고 매 스탭마다 모델을 업데이트하고 결과 저장하고 이런 것들을 할 부분입니다.
+
+현 논문은 dataset이 필요없으니 3 part로 나누어서 구현합니다.
