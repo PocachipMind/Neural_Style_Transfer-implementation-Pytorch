@@ -50,4 +50,6 @@ ContentLoss와 StyleLoss를 나눠 구현
 ### train 03 부터
 train 03 부터 하이퍼 파라미터 튜닝을 위한 구조 변경
 
+03 : 폴더를 생성하고 파라미터값을 바꾸며 실험
+
 ### train final 최종 코드
