@@ -124,3 +124,13 @@ Gram Matrix가 Correlation을 표현하므로
 알파와 베타는 하이퍼파라미터입니다. 학습할때 하이퍼파라미터 튜닝을 해야합니다. 
 
 아래 Result 부분에 하이퍼파라미터 비율 참고하면서 하이퍼파라미터 튜닝합니다.
+
+# Figure 2 ) Style transfer algotithm
+
+![image](https://github.com/user-attachments/assets/5acfd21e-761f-4108-99df-145f2e7259ba)
+
+해당 논문의 전체 파이프라인 보여주는 모식도.
+
+해당 그림이 이해 되어야 Style transfer 논문이 이해되었다 볼 수 있음.
+
+우린 처음에 노이즈였던 저 이미지를 업데이트 해갈 것임
