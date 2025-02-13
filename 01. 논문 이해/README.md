@@ -97,3 +97,17 @@ Deep Image Representation이 VGG 네트워크의 Feature Map으로 표현된다�
 ![image](https://github.com/user-attachments/assets/0022b01e-6d6d-438d-b2b5-43cfcc73280d)
 
 아래부분은 그래디언트 디센트 구하는 부분
+
+# Style representation
+
+![image](https://github.com/user-attachments/assets/25573e95-9fb0-4788-9020-fc5991c416b3)
+
+초록색 부분은 모두 같은 것을 호칭
+
+# Style representation - Gram Matrix
+
+Gram Matrix = 자기 자신의 내적. 매트릭스의 자기 자신의 내적
+
+![image](https://github.com/user-attachments/assets/1f5e04b8-2201-469e-9848-4fdf10ac6d89)
+
+![image](https://github.com/user-attachments/assets/6ec0d2f6-59ae-4687-bfd9-40f4f18709d0)
