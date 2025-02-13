@@ -19,4 +19,5 @@ torch.nn.modeule로 구현될 실제 forward 부분
 
 1~3 구현 파트를 합친 다음에 Main Train loop 를 설정하고 매 스탭마다 모델을 업데이트하고 결과 저장하고 이런 것들을 할 부분입니다.
 
-현 논문은 dataset이 필요없으니 3 part로 나누어서 구현합니다.
+
+### 현 논문은 dataset이 필요없으니 3 part로 나누어서 구현합니다.
