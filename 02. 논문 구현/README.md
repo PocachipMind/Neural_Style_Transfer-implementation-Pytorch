@@ -59,3 +59,32 @@ train 03 부터 하이퍼 파라미터 튜닝을 위한 구조 변경
 논문에 구현되어있는 optimizer 적용 -> closure 필요
 
 ### train final 최종 코드
+
+# 하이퍼파라미터 테스트
+
+### content input : 
+
+![l_2019010201000247800015641](https://github.com/user-attachments/assets/08c4821e-8a3c-4ce3-b153-c525c0b1d9ff)
+
+### style input :
+
+![style2](https://github.com/user-attachments/assets/2d28e3d2-6362-4ab5-bdcd-1716541cdc8d)
+
+## 1. alpha = 1, beta = 1e8 , lr = 1
+epoch 1 :
+
+![0](https://github.com/user-attachments/assets/a17a2ea0-5a50-46c0-92d1-7cc27dfe0b27)
+
+epoch 200:
+
+![200](https://github.com/user-attachments/assets/e7f13efd-f115-479e-a5b5-1bd5021943fa)
+
+
+## 2. alpha = 1, beta = 1e5 , lr = 1
+
+epoch 1 : 
+
+![0](https://github.com/user-attachments/assets/dad50f7f-c9ae-4ca4-a716-6451d4ccd6df)
+
+epoch 200:
+
