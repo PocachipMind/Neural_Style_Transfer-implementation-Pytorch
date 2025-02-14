@@ -88,3 +88,4 @@ epoch 1 :
 
 epoch 200:
 
+![200](https://github.com/user-attachments/assets/2a59d6e8-ba12-4fba-bc73-e2077777fb30)
