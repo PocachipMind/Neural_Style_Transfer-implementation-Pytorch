@@ -68,7 +68,7 @@ train 03 부터 하이퍼 파라미터 튜닝을 위한 구조 변경
 
 ### style input :
 
-![style2](https://github.com/user-attachments/assets/2d28e3d2-6362-4ab5-bdcd-1716541cdc8d)
+![style](https://github.com/user-attachments/assets/4e926526-b97e-4f71-ae5c-2b6cda233b32)
 
 ## 1. alpha = 1, beta = 1e8 , lr = 1
 epoch 1 :
